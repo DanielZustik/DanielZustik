@@ -2,7 +2,7 @@
 
 👀 I'm eager to apply my knowledge and contribute to meaningful projects.
 
-🌱 I’m currently studying JAVA in college and dedicating time to my personal project, an ERP like app. This project is not only a showcase of my coding skills (Java, JavaFX, MySql)
+🌱 I’m currently  working as a junior Java SW dev. and studying IT in college. 
 
 📫 How to reach me: Feel free to drop me an email at danielzustik@gmail.com for any inquiries, opportunities, or just to say hello!
 
